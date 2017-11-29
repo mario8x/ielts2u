@@ -1,0 +1,36 @@
+0
+00:00:08,580 --> 00:00:15,379
+On test day, the IELTS Listening Test is on one digital audio track, which is started
+
+1
+00:00:15,379 --> 00:00:22,570
+by a supervisor and plays non-stop until it finishes approximately 30 minutes later.
+
+2
+00:00:22,570 --> 00:00:28,240
+This audio track contains the 4 listening sections,
+
+3
+00:00:28,240 --> 00:00:35,480
+but it also contains the instructions you will hear before, during and after each listening
+
+4
+00:00:35,480 --> 00:00:41,000
+section, given by the same speaker throughout the test.
+
+5
+00:00:41,000 --> 00:00:47,799
+The sample script below shows you these instructions. Remember that this is a script, you will not
+
+6
+00:00:47,799 --> 00:00:52,970
+see the script in the test, but you will hear these instructions.
+
+7
+00:00:52,970 --> 00:00:58,510
+Read through the script and move your mouse over the highlighted text to get important
+
+8
+00:00:58,510 --> 00:00:59,190
+advice.
+

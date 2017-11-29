@@ -40,7 +40,9 @@ produces <> makes
 ```
 1. read two questions ahead
 Don't panic
-
+If you think you have missed an answer, mark the question you have missed, keep
+reading ahead and try to answer the question after the secion
+has finished 
 ```
 3. After listening
 
