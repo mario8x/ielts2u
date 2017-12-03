@@ -41,10 +41,20 @@ produces <> makes
 1. read two questions ahead
 Don't panic
 If you think you have missed an answer, mark the question you have missed, keep
-reading ahead and try to answer the question after the secion
-has finished 
+reading ahead and try to answer the question after the section
+has finished
 ```
 3. After listening
 
 * checking answer
+```
+Have 30 seconds to check every section,
+words limit
+Be careful unnecessary words
+
+```
+
 * transferring the answer
+```
+
+```
